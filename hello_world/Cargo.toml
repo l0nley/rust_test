@@ -1,0 +1,11 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+authors = ["Uladzimir Harabtsou <l0nley@users.noreply.github.com>"]
+
+[dependencies]
+futures="0.1"
+hyper="0.12"
+pretty_env_logger="0.2.5"
+serde_json="1.0"
+
